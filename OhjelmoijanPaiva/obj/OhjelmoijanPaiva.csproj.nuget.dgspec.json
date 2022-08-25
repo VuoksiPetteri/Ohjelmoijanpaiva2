@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juho.lindemark\\Desktop\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juho.lindemark\\Desktop\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juho.lindemark\\Desktop\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva.csproj",
+        "projectName": "OhjelmoijanPaiva",
+        "projectPath": "C:\\Users\\juho.lindemark\\Desktop\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva.csproj",
+        "packagesPath": "C:\\Users\\juho.lindemark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juho.lindemark\\Desktop\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\OhjelmoijanPaiva\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juho.lindemark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

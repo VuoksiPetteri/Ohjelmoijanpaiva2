@@ -1,0 +1,9 @@
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\bin\Debug\net40\OhjelmoijanPaiva.exe.config
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\bin\Debug\net40\OhjelmoijanPaiva.exe
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\bin\Debug\net40\OhjelmoijanPaiva.pdb
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.csprojAssemblyReference.cache
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.AssemblyInfoInputs.cache
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.AssemblyInfo.cs
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.csproj.CoreCompileInputs.cache
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.exe
+C:\Users\juho.lindemark\Desktop\OhjelmoijanPaiva\OhjelmoijanPaiva\OhjelmoijanPaiva\obj\Debug\net40\OhjelmoijanPaiva.pdb
